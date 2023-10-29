@@ -1,0 +1,15 @@
+Label,# Samples,Average,Median,90% Line,95% Line,99% Line,Min,Max,Error %,Throughput,Received KB/sec,Sent KB/sec
+https://www.rediff.com/,10,3544,3450,3924,3924,4030,3032,4030,0.000%,2.04082,1298.73,11.57
+https://newads.rediff.com/rediffadserver/www/delivery/asyncspc.php?zones=341%7C75%7C77%7C83%7C79&prefix=revive-0-&source=_blank&target=_blank&loc=https%3A%2F%2Fwww.rediff.com%2F&referer=https%3A%2F%2Fwww.google.com%2F,10,530,569,709,709,764,168,764,0.000%,5.80720,34.22,2.98
+https://newads.rediff.com/rediffadserver/www/delivery/asyncspc.php?zones=467&prefix=revive-0-&source=_blank&target=_blank&loc=https%3A%2F%2Fwww.rediff.com%2F&referer=https%3A%2F%2Fwww.rediff.com%2F,20,147,63,400,409,409,38,409,0.000%,18.14882,25.13,9.80
+Test,10,4370,4289,4544,4544,4581,4181,4581,0.000%,1.92308,1240.46,13.96
+https://money.rediff.com/,10,1440,887,2441,2441,4659,474,4659,0.000%,.22405,164.88,1.53
+https://money.rediff.com/updatebse,10,55,32,106,106,134,13,134,0.000%,.22853,0.53,0.09
+https://money.rediff.com/moneycharts/bse/indices/sensex,10,71,34,173,173,212,20,212,0.000%,.22869,7.18,0.09
+https://newads.rediff.com/rediffadserver/www/delivery/asyncspc.php?zones=397%7C13%7C361%7C11%7C69%7C9%7C53%7C615%7C613&prefix=revive-0-&source=_blank&target=_blank&loc=https%3A%2F%2Fmoney.rediff.com%2Findex.html&referer=https%3A%2F%2Fwww.rediff.com%2F,10,231,220,341,341,370,72,370,0.000%,.22780,2.45,0.14
+https://money.rediff.com/updateticker,10,69,22,147,147,187,13,187,0.000%,.22807,2.42,0.09
+Money,10,1869,1180,2716,2716,5523,899,5523,0.000%,.21827,172.64,1.88
+https://money.rediff.com/news,10,909,730,904,904,2715,454,2715,0.000%,.16706,92.02,1.27
+https://newads.rediff.com/rediffadserver/www/delivery/asyncspc.php?zones=399%7C19%7C15%7C17%7C53%7C617%7C619&prefix=revive-0-&source=_blank&target=_blank&loc=https%3A%2F%2Fmoney.rediff.com%2Fnews&referer=https%3A%2F%2Fmoney.rediff.com%2Findex.html,10,183,183,215,215,273,74,273,0.000%,.16885,1.36,0.10
+Market_news,10,1093,934,1058,1058,2988,640,2988,0.000%,.14292,79.87,1.17
+TOTAL,140,1047,398,3888,4289,4659,13,5523,0.000%,1.82727,520.74,6.28

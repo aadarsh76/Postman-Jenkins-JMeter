@@ -1,0 +1,80 @@
+{
+	"id": "eab7728e-a060-48a9-adab-8b5374ceca5d",
+	"name": "Feb_Prac_collection",
+	"timestamp": "2023-02-06T12:08:00.328Z",
+	"collection_id": "0-507c2e3a-894f-4a16-a194-97ba559f0c07",
+	"folder_id": 0,
+	"environment_id": "919dbf2a-1b58-4d6b-b7d3-dcde5c54c471",
+	"totalPass": 2,
+	"totalFail": 0,
+	"results": [
+		{
+			"id": "476eb9ee-20d9-43ad-938d-f80b3429044b",
+			"name": "RequestRes",
+			"url": "https://reqres.in/api/users/2",
+			"time": 38,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"adndmad": true
+			},
+			"testPassFailCounts": {
+				"adndmad": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				38
+			],
+			"allTests": [
+				{
+					"adndmad": true
+				}
+			]
+		},
+		{
+			"id": "532e4925-1cbc-4ad7-bf0f-af67e42b40b3",
+			"name": "GetUsers",
+			"url": "https://reqres.in/api/users?page=2",
+			"time": 38,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"adndmad": true
+			},
+			"testPassFailCounts": {
+				"adndmad": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				38
+			],
+			"allTests": [
+				{
+					"adndmad": true
+				}
+			]
+		}
+	],
+	"count": 1,
+	"totalTime": 76,
+	"collection": {
+		"requests": [
+			{
+				"id": "476eb9ee-20d9-43ad-938d-f80b3429044b",
+				"method": "GET"
+			},
+			{
+				"id": "532e4925-1cbc-4ad7-bf0f-af67e42b40b3",
+				"method": "GET"
+			}
+		]
+	}
+}
